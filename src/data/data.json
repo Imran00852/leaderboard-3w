@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "name": "Ava Mitchell",
+    "avi": "https://i.pravatar.cc/150?img=1",
+    "points": 1000
+  },
+  {
+    "rank": 2,
+    "name": "Liam Thompson",
+    "avi": "https://i.pravatar.cc/150?img=2",
+    "points": 999
+  },
+  {
+    "rank": 3,
+    "name": "Sophia Nguyen",
+    "avi": "https://i.pravatar.cc/150?img=3",
+    "points": 998
+  },
+  {
+    "rank": 4,
+    "name": "Noah Anderson",
+    "avi": "https://i.pravatar.cc/150?img=4",
+    "points": 997
+  },
+  {
+    "rank": 5,
+    "name": "Isabella Davis",
+    "avi": "https://i.pravatar.cc/150?img=5",
+    "points": 996
+  },
+  {
+    "rank": 6,
+    "name": "Mason Johnson",
+    "avi": "https://i.pravatar.cc/150?img=6",
+    "points": 995
+  },
+  {
+    "rank": 7,
+    "name": "Mia Martinez",
+    "avi": "https://i.pravatar.cc/150?img=7",
+    "points": 994
+  },
+  {
+    "rank": 8,
+    "name": "Elijah White",
+    "avi": "https://i.pravatar.cc/150?img=8",
+    "points": 993
+  },
+  {
+    "rank": 9,
+    "name": "Charlotte Brown",
+    "avi": "https://i.pravatar.cc/150?img=9",
+    "points": 992
+  },
+  {
+    "rank": 10,
+    "name": "James Garcia",
+    "avi": "https://i.pravatar.cc/150?img=10",
+    "points": 991
+  },
+  {
+    "rank": 11,
+    "name": "Amelia Rodriguez",
+    "avi": "https://i.pravatar.cc/150?img=11",
+    "points": 990
+  },
+  {
+    "rank": 12,
+    "name": "Benjamin Lee",
+    "avi": "https://i.pravatar.cc/150?img=12",
+    "points": 989
+  },
+  {
+    "rank": 13,
+    "name": "Harper Gonzalez",
+    "avi": "https://i.pravatar.cc/150?img=13",
+    "points": 988
+  },
+  {
+    "rank": 14,
+    "name": "Lucas Perez",
+    "avi": "https://i.pravatar.cc/150?img=14",
+    "points": 987
+  },
+  {
+    "rank": 15,
+    "name": "Evelyn Harris",
+    "avi": "https://i.pravatar.cc/150?img=15",
+    "points": 986
+  },
+  {
+    "rank": 16,
+    "name": "Henry Clark",
+    "avi": "https://i.pravatar.cc/150?img=16",
+    "points": 985
+  },
+  {
+    "rank": 17,
+    "name": "Abigail Lewis",
+    "avi": "https://i.pravatar.cc/150?img=17",
+    "points": 984
+  },
+  {
+    "rank": 18,
+    "name": "Alexander Robinson",
+    "avi": "https://i.pravatar.cc/150?img=18",
+    "points": 983
+  },
+  {
+    "rank": 19,
+    "name": "Emily Walker",
+    "avi": "https://i.pravatar.cc/150?img=19",
+    "points": 982
+  },
+  {
+    "rank": 20,
+    "name": "Michael Young",
+    "avi": "https://i.pravatar.cc/150?img=20",
+    "points": 981
+  },
+  {
+    "rank": 21,
+    "name": "Elizabeth Allen",
+    "avi": "https://i.pravatar.cc/150?img=21",
+    "points": 980
+  },
+  {
+    "rank": 22,
+    "name": "Daniel King",
+    "avi": "https://i.pravatar.cc/150?img=22",
+    "points": 979
+  },
+  {
+    "rank": 23,
+    "name": "Sofia Wright",
+    "avi": "https://i.pravatar.cc/150?img=23",
+    "points": 978
+  },
+  {
+    "rank": 24,
+    "name": "Matthew Scott",
+    "avi": "https://i.pravatar.cc/150?img=24",
+    "points": 977
+  },
+  {
+    "rank": 25,
+    "name": "Ella Green",
+    "avi": "https://i.pravatar.cc/150?img=25",
+    "points": 976
+  },
+  {
+    "rank": 26,
+    "name": "Jackson Adams",
+    "avi": "https://i.pravatar.cc/150?img=26",
+    "points": 975
+  },
+  {
+    "rank": 27,
+    "name": "Scarlett Baker",
+    "avi": "https://i.pravatar.cc/150?img=27",
+    "points": 974
+  },
+  {
+    "rank": 28,
+    "name": "Sebastian Nelson",
+    "avi": "https://i.pravatar.cc/150?img=28",
+    "points": 973
+  },
+  {
+    "rank": 29,
+    "name": "Grace Hall",
+    "avi": "https://i.pravatar.cc/150?img=29",
+    "points": 972
+  },
+  {
+    "rank": 30,
+    "name": "Aiden Rivera",
+    "avi": "https://i.pravatar.cc/150?img=30",
+    "points": 971
+  },
+  {
+    "rank": 31,
+    "name": "Chloe Campbell",
+    "avi": "https://i.pravatar.cc/150?img=31",
+    "points": 970
+  },
+  {
+    "rank": 32,
+    "name": "David Mitchell",
+    "avi": "https://i.pravatar.cc/150?img=32",
+    "points": 969
+  },
+  {
+    "rank": 33,
+    "name": "Victoria Parker",
+    "avi": "https://i.pravatar.cc/150?img=33",
+    "points": 968
+  },
+  {
+    "rank": 34,
+    "name": "Joseph Evans",
+    "avi": "https://i.pravatar.cc/150?img=34",
+    "points": 967
+  },
+  {
+    "rank": 35,
+    "name": "Aria Edwards",
+    "avi": "https://i.pravatar.cc/150?img=35",
+    "points": 966
+  },
+  {
+    "rank": 36,
+    "name": "Samuel Turner",
+    "avi": "https://i.pravatar.cc/150?img=36",
+    "points": 965
+  },
+  {
+    "rank": 37,
+    "name": "Penelope Torres",
+    "avi": "https://i.pravatar.cc/150?img=37",
+    "points": 964
+  },
+  {
+    "rank": 38,
+    "name": "Owen Flores",
+    "avi": "https://i.pravatar.cc/150?img=38",
+    "points": 963
+  },
+  {
+    "rank": 39,
+    "name": "Lily Moore",
+    "avi": "https://i.pravatar.cc/150?img=39",
+    "points": 962
+  },
+  {
+    "rank": 40,
+    "name": "Wyatt Ramirez",
+    "avi": "https://i.pravatar.cc/150?img=40",
+    "points": 961
+  },
+  {
+    "rank": 41,
+    "name": "Hannah Morgan",
+    "avi": "https://i.pravatar.cc/150?img=41",
+    "points": 960
+  },
+  {
+    "rank": 42,
+    "name": "John Bailey",
+    "avi": "https://i.pravatar.cc/150?img=42",
+    "points": 959
+  },
+  {
+    "rank": 43,
+    "name": "Nora Cooper",
+    "avi": "https://i.pravatar.cc/150?img=43",
+    "points": 958
+  },
+  {
+    "rank": 44,
+    "name": "Jack Reed",
+    "avi": "https://i.pravatar.cc/150?img=44",
+    "points": 957
+  },
+  {
+    "rank": 45,
+    "name": "Zoey Kelly",
+    "avi": "https://i.pravatar.cc/150?img=45",
+    "points": 956
+  },
+  {
+    "rank": 46,
+    "name": "Luke Cox",
+    "avi": "https://i.pravatar.cc/150?img=46",
+    "points": 955
+  },
+  {
+    "rank": 47,
+    "name": "Riley Ward",
+    "avi": "https://i.pravatar.cc/150?img=47",
+    "points": 954
+  },
+  {
+    "rank": 48,
+    "name": "Jayden Richardson",
+    "avi": "https://i.pravatar.cc/150?img=48",
+    "points": 953
+  },
+  {
+    "rank": 49,
+    "name": "Layla Brooks",
+    "avi": "https://i.pravatar.cc/150?img=49",
+    "points": 952
+  },
+  {
+    "rank": 50,
+    "name": "Dylan Bell",
+    "avi": "https://i.pravatar.cc/150?img=50",
+    "points": 951
+  },
+  {
+    "rank": 51,
+    "name": "Lillian Murphy",
+    "avi": "https://i.pravatar.cc/150?img=51",
+    "points": 950
+  },
+  {
+    "rank": 52,
+    "name": "Gabriel Barnes",
+    "avi": "https://i.pravatar.cc/150?img=52",
+    "points": 949
+  },
+  {
+    "rank": 53,
+    "name": "Aubrey Sanders",
+    "avi": "https://i.pravatar.cc/150?img=53",
+    "points": 948
+  },
+  {
+    "rank": 54,
+    "name": "Carter Price",
+    "avi": "https://i.pravatar.cc/150?img=54",
+    "points": 947
+  },
+  {
+    "rank": 55,
+    "name": "Addison Bennett",
+    "avi": "https://i.pravatar.cc/150?img=55",
+    "points": 946
+  },
+  {
+    "rank": 56,
+    "name": "Julian Wood",
+    "avi": "https://i.pravatar.cc/150?img=56",
+    "points": 945
+  },
+  {
+    "rank": 57,
+    "name": "Eleanor Ross",
+    "avi": "https://i.pravatar.cc/150?img=57",
+    "points": 944
+  },
+  {
+    "rank": 58,
+    "name": "Levi Coleman",
+    "avi": "https://i.pravatar.cc/150?img=58",
+    "points": 943
+  },
+  {
+    "rank": 59,
+    "name": "Stella Jenkins",
+    "avi": "https://i.pravatar.cc/150?img=59",
+    "points": 942
+  },
+  {
+    "rank": 60,
+    "name": "Isaac Perry",
+    "avi": "https://i.pravatar.cc/150?img=60",
+    "points": 941
+  },
+  {
+    "rank": 61,
+    "name": "Natalie Powell",
+    "avi": "https://i.pravatar.cc/150?img=61",
+    "points": 940
+  },
+  {
+    "rank": 62,
+    "name": "Grayson Long",
+    "avi": "https://i.pravatar.cc/150?img=62",
+    "points": 939
+  },
+  {
+    "rank": 63,
+    "name": "Zoe Patterson",
+    "avi": "https://i.pravatar.cc/150?img=63",
+    "points": 938
+  },
+  {
+    "rank": 64,
+    "name": "Anthony Hughes",
+    "avi": "https://i.pravatar.cc/150?img=64",
+    "points": 937
+  },
+  {
+    "rank": 65,
+    "name": "Leah Flores",
+    "avi": "https://i.pravatar.cc/150?img=65",
+    "points": 936
+  },
+  {
+    "rank": 66,
+    "name": "Lincoln Washington",
+    "avi": "https://i.pravatar.cc/150?img=66",
+    "points": 935
+  },
+  {
+    "rank": 67,
+    "name": "Audrey Butler",
+    "avi": "https://i.pravatar.cc/150?img=67",
+    "points": 934
+  },
+  {
+    "rank": 68,
+    "name": "Hudson Simmons",
+    "avi": "https://i.pravatar.cc/150?img=68",
+    "points": 933
+  },
+  {
+    "rank": 69,
+    "name": "Violet Foster",
+    "avi": "https://i.pravatar.cc/150?img=69",
+    "points": 932
+  },
+  {
+    "rank": 70,
+    "name": "Thomas Bryant",
+    "avi": "https://i.pravatar.cc/150?img=70",
+    "points": 931
+  },
+  {
+    "rank": 71,
+    "name": "Savannah Russell",
+    "avi": "https://i.pravatar.cc/150?img=1",
+    "points": 930
+  },
+  {
+    "rank": 72,
+    "name": "Charles Griffin",
+    "avi": "https://i.pravatar.cc/150?img=2",
+    "points": 929
+  },
+  {
+    "rank": 73,
+    "name": "Brooklyn Diaz",
+    "avi": "https://i.pravatar.cc/150?img=3",
+    "points": 928
+  },
+  {
+    "rank": 74,
+    "name": "Christopher Hayes",
+    "avi": "https://i.pravatar.cc/150?img=4",
+    "points": 927
+  },
+  {
+    "rank": 75,
+    "name": "Claire Myers",
+    "avi": "https://i.pravatar.cc/150?img=5",
+    "points": 926
+  },
+  {
+    "rank": 76,
+    "name": "Jaxon Ford",
+    "avi": "https://i.pravatar.cc/150?img=6",
+    "points": 925
+  },
+  {
+    "rank": 77,
+    "name": "Skylar Hamilton",
+    "avi": "https://i.pravatar.cc/150?img=7",
+    "points": 924
+  },
+  {
+    "rank": 78,
+    "name": "Ezra Graham",
+    "avi": "https://i.pravatar.cc/150?img=8",
+    "points": 923
+  },
+  {
+    "rank": 79,
+    "name": "Paisley Sullivan",
+    "avi": "https://i.pravatar.cc/150?img=9",
+    "points": 922
+  },
+  {
+    "rank": 80,
+    "name": "Josiah Wallace",
+    "avi": "https://i.pravatar.cc/150?img=10",
+    "points": 921
+  },
+  {
+    "rank": 81,
+    "name": "Bella West",
+    "avi": "https://i.pravatar.cc/150?img=11",
+    "points": 920
+  },
+  {
+    "rank": 82,
+    "name": "Andrew Jordan",
+    "avi": "https://i.pravatar.cc/150?img=12",
+    "points": 919
+  },
+  {
+    "rank": 83,
+    "name": "Camila Cole",
+    "avi": "https://i.pravatar.cc/150?img=13",
+    "points": 918
+  },
+  {
+    "rank": 84,
+    "name": "Nathan Chapman",
+    "avi": "https://i.pravatar.cc/150?img=14",
+    "points": 917
+  },
+  {
+    "rank": 85,
+    "name": "Luna Hunter",
+    "avi": "https://i.pravatar.cc/150?img=15",
+    "points": 916
+  },
+  {
+    "rank": 86,
+    "name": "Eli Hicks",
+    "avi": "https://i.pravatar.cc/150?img=16",
+    "points": 915
+  },
+  {
+    "rank": 87,
+    "name": "Lucy Stone",
+    "avi": "https://i.pravatar.cc/150?img=17",
+    "points": 914
+  },
+  {
+    "rank": 88,
+    "name": "Aaron Warren",
+    "avi": "https://i.pravatar.cc/150?img=18",
+    "points": 913
+  },
+  {
+    "rank": 89,
+    "name": "Aaliyah Dean",
+    "avi": "https://i.pravatar.cc/150?img=19",
+    "points": 912
+  },
+  {
+    "rank": 90,
+    "name": "Caleb Burns",
+    "avi": "https://i.pravatar.cc/150?img=20",
+    "points": 911
+  },
+  {
+    "rank": 91,
+    "name": "Ellie Stevens",
+    "avi": "https://i.pravatar.cc/150?img=21",
+    "points": 910
+  },
+  {
+    "rank": 92,
+    "name": "Hunter Wells",
+    "avi": "https://i.pravatar.cc/150?img=22",
+    "points": 909
+  },
+  {
+    "rank": 93,
+    "name": "Madelyn Johnston",
+    "avi": "https://i.pravatar.cc/150?img=23",
+    "points": 908
+  },
+  {
+    "rank": 94,
+    "name": "Christian Knight",
+    "avi": "https://i.pravatar.cc/150?img=24",
+    "points": 907
+  },
+  {
+    "rank": 95,
+    "name": "Peyton Rose",
+    "avi": "https://i.pravatar.cc/150?img=25",
+    "points": 906
+  },
+  {
+    "rank": 96,
+    "name": "Jonathan Holmes",
+    "avi": "https://i.pravatar.cc/150?img=26",
+    "points": 905
+  },
+  {
+    "rank": 97,
+    "name": "Hailey Brewer",
+    "avi": "https://i.pravatar.cc/150?img=27",
+    "points": 904
+  },
+  {
+    "rank": 98,
+    "name": "Connor Elliott",
+    "avi": "https://i.pravatar.cc/150?img=28",
+    "points": 903
+  },
+  {
+    "rank": 99,
+    "name": "Aurora Austin",
+    "avi": "https://i.pravatar.cc/150?img=29",
+    "points": 902
+  },
+  {
+    "rank": 100,
+    "name": "Isaiah Pierce",
+    "avi": "https://i.pravatar.cc/150?img=30",
+    "points": 901
+  }
+]
